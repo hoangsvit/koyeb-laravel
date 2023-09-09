@@ -34,7 +34,7 @@ You need a Koyeb account to successfully deploy and run this application. If you
 
 The fastest way to deploy the Laravel application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/koyeb/example-laravel&branch=main&env[APP_KEY]=base64:q2bL7orU8Qb0Wnzw7hafuRtPQJ9VdWIAIEy9HgEtGjQ=&name=laravel-on-koyeb)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/hoangsvit/koyeb-laravel&branch=main&env[APP_KEY]=base64:q2bL7orU8Qb0Wnzw7hafuRtPQJ9VdWIAIEy9HgEtGjQ=&name=laravel-on-koyeb)
 
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
